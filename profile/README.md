@@ -31,18 +31,18 @@ ANONYMOUSE DOMAINS                              | 1 YEAR VALIDATE
 COBALT STRIKE 4.7.2                             | PRIVAT ARSENAL KIT
 COBALT STRIKE 4.8                               | ARSENAL KIT 03/2023  
 
-FILE CRYPTION SERVICE                           | Description
+FILE CRYPTION SERVICE                           | Month
 ----------------------------------------------- |----------------------
-CrowdStrike FALCON                              | OPSEC
-CYLANCE PROTECT                                 | 1 YEAR VALIDATE    
-CRYPT EXE                                       | WINDOWS / LINUX 
-POWERSHELL                                      | 1 YEAR VALIDATE   
-WEBSHELL JAVA                                   | 1 YEAR VALIDATE              
-ASPX                                            | 1 YEAR VALIDATE   
-ASP                                             | 1 YEAR VALIDATE  
-VBS                                             | 1 YEAR VALIDATE  
-EXE+DLL                                         | 1 YEAR VALIDATE  EXE+DLL
-CARBON BLACK + Modern Av's bypass               | 1 YEAR VALIDATE
+CrowdStrike FALCON                              | unlimited builds
+CYLANCE PROTECT                                 | unlimited builds    
+CRYPT EXE                                       | unlimited builds 
+POWERSHELL                                      | unlimited builds   
+WEBSHELL JAVA                                   | unlimited builds             
+ASPX                                            | unlimited builds   
+ASP                                             | unlimited builds  
+VBS                                             | unlimited builds  
+EXE+DLL                                         | unlimited builds
+CARBON BLACK + Modern Av's bypass               | unlimited builds
 
 ### Exploit
 
