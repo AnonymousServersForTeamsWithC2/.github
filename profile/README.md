@@ -1,12 +1,68 @@
-## Hi there 👋
+<h2 align="center">INJECT[EXP]DEV</a> </h2> 
 
-<!--
+<p align="center">
+CYBER IMPLEMENTATION SOLUTIONS
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img src="https://github.com/AnonymousServersForTeamsWithC2/.github/blob/main/profile/injectexp.dev.png" alt="animated" />
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3 align="center">ANONYMOUS SERVERS FOR TEAMS WITH C&C (С2) INFRASTRUCTURE</a> </h3> 
+
+<p align="center">
+tox:340EF1DCEEC5B395B9B45963F945C00238ADDEAC87C117F64F46206911474C61981D96420B72
+</p>
+
+### Anonymous VPS with C&C infrastructure Advanced
+
+#### Simple and Powerful control panel, Momentary deployment,Powerful Cloud Computing, 1TB+ Optical Network, Instant Deployment of Windows and Linux VPS. Quick change of IP address in case it is blacklisted due to its activity.Payment for servers in BTC/XMR/USDT
+
+#### Ready to go Cobalt Strike 4.7.2 + PRIVAT Artifact Kit bypass WinDef + SmartScreen + AV.C++, syscall, + code protection. Crypto service directly in the personal panel of the server.
+
+#### Cobalt Strike 4.8 + Arsenal Kit 03/2023 bypass WinDef + SmartScreen + AV.C++, syscall, + code protection. Crypto service directly in the personal panel of the server.
+
+Anonymous VPS with C&C infrastructure Advanced  | Description
+----------------------------------------------- |----------------------
+HIDDEN TEAMSERVER                               | OPSEC Сustomization of hidden COBALT STRIKE with individual requirements for TEAMS to INDICIDUAL PENTESTERS [for Windows and for Linux beacon].
+ANONYMOUSE REDIRECTORS                          |
+ANONYMOUSE RDP                                  | WINDOWS / LINUX 
+ANONYMOUSE DOMAINS                              | 1 YEAR VALIDATE  
+COBALT STRIKE 4.7.2                             | PRIVAT ARSENAL KIT
+COBALT STRIKE 4.8                               | ARSENAL KIT 03/2023  
+
+FILE CRYPTION SERVICE                           | Description
+----------------------------------------------- |----------------------
+CrowdStrike FALCON                              | OPSEC
+CYLANCE PROTECT                                 | 1 YEAR VALIDATE    
+CRYPT EXE                                       | WINDOWS / LINUX 
+POWERSHELL                                      | 1 YEAR VALIDATE   
+WEBSHELL JAVA                                   | 1 YEAR VALIDATE              
+ASPX                                            | 1 YEAR VALIDATE   
+ASP                                             | 1 YEAR VALIDATE  
+VBS                                             | 1 YEAR VALIDATE  
+EXE+DLL                                         | 1 YEAR VALIDATE  EXE+DLL
+CARBON BLACK + Modern Av's bypass               | 1 YEAR VALIDATE
+
+### Exploit
+
+✖ Exploit under SonicWALL VPN (More Access) on GO ✖
+
+✖ Exploit under Forti VPN ✖
+
+✖ Mirari LOADER Cobalt Strike ✖ 
+
+✖ Mimikatz bypass + Zerologon + PrintNightmare LPE and RCE ✖
+
+<p align="center">
+
+<h2 align="center">✖  TRAINING COBALT STRIKE ✖</a> </h2> 
+
+<p align="center">
+This is a training course that will teach you modern offensive techniques that are used by red teams and targeted attackers. The following tutorials use Cobalt Strike. This can be a great way to practice and learn how to use Cobalt Strike in a realistic environment. At the end of the course, you will receive all learning materials, including course PDFs/slides, content materials, source code for payloads.
+
+<p align="center">
+We host live workouts that are conducted remotely and do not contain pre-recorded videos.For training programs or other services,please contact us                                     injectexpdev@proton.me                                 
+</p>
+
+official website www.injectexp.dev
